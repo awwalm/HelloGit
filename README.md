@@ -22,7 +22,7 @@ Adding to this, I've also worked on RFID engineering.
 * Discrete mathematics
 * Geometry
 
-# Important authors whose books shaped my career
+## Important authors whose books shaped my career
 - K. A. Stroud
 - Paul Deitel
 - Herbert Schildt
@@ -30,4 +30,4 @@ Adding to this, I've also worked on RFID engineering.
 - Mark Lutz
 - Giacomo Bonanno
 - Dennis/Wixom/Tegarden
-- Joseph F. Valacich and Jey F. George
+- Joseph F. Valacich and Joey F. George
