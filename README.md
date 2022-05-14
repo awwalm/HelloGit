@@ -21,3 +21,13 @@ Adding to this, I've also worked on RFID engineering.
 * Automata and computational theory
 * Discrete mathematics
 * Geometry
+
+## Important authors whose books shaped my career
+- K. A. Stroud
+- Paul Deitel
+- Herbert Schildt
+- Steven Tadelis
+- Mark Lutz
+- Giacomo Bonanno
+- Dennis/Wixom/Tegarden
+- Joseph F. Valacich and Joey F. George
