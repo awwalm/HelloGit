@@ -9,7 +9,7 @@ This README will give you a bit of information about me.
 ## The journey so far...
 I wrote and compiled my first lines of code in October 2017, and that journey led me to the creation of what you see before you - a curated list of repositories.
 I specialize in Python and Java programming (mainly) and have applied these in a number of areas not limited to: 
-data miing/web scraping, Android development, and a bit of machine learning.
+data mining/web scraping, Android development, and a bit of machine learning.
 Adding to this, I've also worked on RFID engineering.
 
 ## Areas of interest
